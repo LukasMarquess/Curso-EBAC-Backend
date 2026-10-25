@@ -1,0 +1,19 @@
+levantar da cama
+ir ao banheiro
+tomar banho
+escovar os dentes
+
+se eu estiver com fome:
+    ir para a cozinha
+    preparar o café
+    preparar a torrada
+    comer
+    ir para o quarto
+caso contrário:
+    ir para o quarto
+
+vestir a roupa 
+pentear o cabelo
+passar desodorante
+colocar o perfume
+ir para o trabalho
