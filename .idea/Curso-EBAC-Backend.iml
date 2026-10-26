@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tarefa_classes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tarefa_calculo_media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tarefa_wrappers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
