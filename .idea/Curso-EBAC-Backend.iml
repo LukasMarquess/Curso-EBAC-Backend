@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/tarefa_calculo_media" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tarefa_controleFluxo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tarefa_wrappers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/heranças" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
